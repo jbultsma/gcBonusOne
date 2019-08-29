@@ -9,3 +9,14 @@ C:\Users\joshu\source\repos\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bon
 C:\Users\joshu\source\repos\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.AssemblyInfo.cs
 C:\Users\joshu\source\repos\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.dll
 C:\Users\joshu\source\repos\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.pdb
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\bin\Debug\netcoreapp2.1\gc_Bonus 1.deps.json
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\bin\Debug\netcoreapp2.1\gc_Bonus 1.runtimeconfig.json
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\bin\Debug\netcoreapp2.1\gc_Bonus 1.runtimeconfig.dev.json
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\bin\Debug\netcoreapp2.1\gc_Bonus 1.dll
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\bin\Debug\netcoreapp2.1\gc_Bonus 1.pdb
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.csprojAssemblyReference.cache
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.csproj.CoreCompileInputs.cache
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.AssemblyInfoInputs.cache
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.AssemblyInfo.cs
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.dll
+C:\Dev\Grand Circus\gc_Bonus 1\gc_Bonus 1\obj\Debug\netcoreapp2.1\gc_Bonus 1.pdb

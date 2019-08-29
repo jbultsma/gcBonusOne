@@ -11,7 +11,7 @@ namespace gc_Bonus_1
             do
             {
                 Console.WriteLine("This application will convert percent grades to letter grades");
-                Console.Write("Please input your percent grade: ");
+                Console.Write("Please input your percent grade (0-100): ");
                 string userInput = Console.ReadLine();
                 int numGrade;
                 Int32.TryParse(userInput, out numGrade);

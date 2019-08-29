@@ -695,11 +695,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\joshu\\source\\repos\\gc_Bonus 1\\gc_Bonus 1\\gc_Bonus 1.csproj",
+      "projectUniqueName": "C:\\Dev\\Grand Circus\\gc_Bonus 1\\gc_Bonus 1\\gc_Bonus 1.csproj",
       "projectName": "gc_Bonus 1",
-      "projectPath": "C:\\Users\\joshu\\source\\repos\\gc_Bonus 1\\gc_Bonus 1\\gc_Bonus 1.csproj",
+      "projectPath": "C:\\Dev\\Grand Circus\\gc_Bonus 1\\gc_Bonus 1\\gc_Bonus 1.csproj",
       "packagesPath": "C:\\Users\\joshu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\joshu\\source\\repos\\gc_Bonus 1\\gc_Bonus 1\\obj\\",
+      "outputPath": "C:\\Dev\\Grand Circus\\gc_Bonus 1\\gc_Bonus 1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
